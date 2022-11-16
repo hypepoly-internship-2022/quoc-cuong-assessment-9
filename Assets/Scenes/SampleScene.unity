@@ -623,8 +623,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0.000014782, y: -636.70013}
-  m_SizeDelta: {x: 656.29, y: 1273.4}
+  m_AnchoredPosition: {x: 0, y: -634.3499}
+  m_SizeDelta: {x: 656.29, y: 1258.2101}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &874481492
 MonoBehaviour:
@@ -824,6 +824,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fba8186ab245cc46ba9689328f8df44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  btnLevelPrefab: {fileID: 6666601199626979101, guid: 3ce3fdd0372a5da4cba6afc6dd2f63d3, type: 3}
+  gridLayout: {fileID: 874481490}
+  levelUWant: 20
+  textUWant:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 --- !u!1 &1304269959
 GameObject:
   m_ObjectHideFlags: 0
@@ -961,8 +974,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.00036621094, y: -631.9933}
-  m_SizeDelta: {x: 656.29, y: 1273.4}
+  m_AnchoredPosition: {x: -0.00036621094, y: -634.35}
+  m_SizeDelta: {x: 656.29, y: 1268.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1953841955
 MonoBehaviour:
