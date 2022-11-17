@@ -12,8 +12,6 @@ public class LevelPopup : MonoBehaviour
 
     public string[] textUWant;
 
-    //215.7 = số 1 button chiếm grid
-
     // Start is called before the first frame update
     void Start()
     {   
