@@ -826,17 +826,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   btnLevelPrefab: {fileID: 6666601199626979101, guid: 3ce3fdd0372a5da4cba6afc6dd2f63d3, type: 3}
   gridLayout: {fileID: 874481490}
-  levelUWant: 20
+  levelUWant: 80
   textUWant:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - "h\u1EC1 h\u1EC1"
+  - ha ha
+  - "h\xEA h\xEA"
+  - "h\xED h\xED"
+  - "kh\xE0 kh\xE0"
+  - hi hi
+  - "h\xE1 h\xE1"
+  - "kh\u1EEBa kh\u1EEBa"
+  - "mua h\xFAa hua"
 --- !u!1 &1304269959
 GameObject:
   m_ObjectHideFlags: 0
